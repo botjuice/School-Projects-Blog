@@ -17,6 +17,7 @@ body {
     text-align: center;
     padding: 20px 30px;
     text-decoration: none;
+    transition: 0.2s;
     font-size: 20px;
   }
   
@@ -28,8 +29,7 @@ body {
   }
   .navbar a:active {
     background-color: #37a5ff;
-    color: #1c1c1c;
-    transition: 0.2s;
+    transition: 0.1s;
   }
 
   .navbar a.split {
