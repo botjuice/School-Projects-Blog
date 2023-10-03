@@ -1,0 +1,25 @@
+.hero {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #ffda75;
+    /* background-color: #e0d3af; */
+    min-height: max-content;
+    padding: 100px 40px 100px 40px;
+}
+.lefthero {
+    text-align: center;
+    font-size: 70px;
+    padding: 45px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.righthero {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    max-width: 60%;
+}
+h3{
+    font-style: oblique;
+}
