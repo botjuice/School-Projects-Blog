@@ -69,13 +69,3 @@ h3{
     transition: 0.1s;
     background-color: #ffcb3b;
 }
-.contact {
-    background-color: #1c1c1c;
-    padding: 100px 40px 100px 40px;
-}
-footer {
-    text-align: center;
-    padding: 20px;
-    background-color: #1c1c1c;
-    color: white;
-}
