@@ -130,6 +130,7 @@ body {
 footer {
   background-color: #1c1c1c;
   text-align: center;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   padding: 20px;
   color: white;
 }
