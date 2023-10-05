@@ -2,10 +2,6 @@ body {
   margin: 0px;
   min-height: 100vh;
 }
-.inactive {
-  display: none;
-}
-
 /* Add a black background color to the top navigation */
 .navbar {
   height: 65px;
@@ -93,6 +89,7 @@ body {
     align-self: flex-start;
   }
   .links.active {
+    transition: 0.2s;
     display: flex;
   }
 }

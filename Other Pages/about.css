@@ -1,0 +1,10 @@
+.nothingyet {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffda75;
+    min-height: 60vh;
+    font-size: x-large;
+    font-family: Calibri, 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+}
