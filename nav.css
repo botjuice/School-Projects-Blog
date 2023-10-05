@@ -47,7 +47,6 @@ body {
   max-height: 65px;
   padding: 3px;
   float: left;
-  color: white;
 }
 .navbar a.split:hover {
   scale: 90%;
