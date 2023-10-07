@@ -57,13 +57,13 @@ h3{
     align-items: center;
     padding: 20px;
     margin: 0px 50px 0px 60px;
-    box-shadow: 1px 1px 10px 10px rgba(0, 0, 0, 0.6);
+    box-shadow: 0px 0px 10px 10px rgba(0, 0, 0, 0.6);
     border-radius: 15px;
     transition: 0.3s;
 }
 .presentclubs:hover {
     transition: 0.3s;
-    box-shadow: 1px 1px 6px 6px rgba(0, 0, 0, 0.7);
+    box-shadow: 0px 0px 6px 6px rgba(0, 0, 0, 0.7);
     scale: 99%;
 }
 .presentclubs > img {

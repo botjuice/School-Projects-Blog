@@ -8,22 +8,88 @@
     font-size: x-large;
     font-family: Calibri, 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
 }
-.statement{
-    padding: 20px 5%;
+.section{
+    padding: 40px 40px;
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: flex-start;
+    align-items: center;
+    gap: 20px;
     font-family:  Calibri,'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
 }
-.statement-title{
-    margin: 10px 0;
+.title{
+    font-family:  Calibri,'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    margin: 0;
     padding: 0;
-    text-align: left;
+    text-align: center;
     font-size: 30px;
 }
-.statement p{
-    margin: 10px 0;
+.section p{
+    margin: 0px 0;
     text-align: left; 
     font-size: 20px;
+    min-width: 100%;
+}
+#about-section {
+    margin: 70px;
+    /* padding: 2%; */
+    box-shadow: 0px 0px 15px 15px rgba(0, 0, 0, 0.4);
+    background-color: white;
+    color: #1c1c1c;
+}
+.team-members{
+    /* gap: 70px; */
+    margin: 70px;
+    padding: 80px 40px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    row-gap: 50px;
+    box-shadow: 0px 0px 15px 15px rgba(0, 0, 0, 0.4);
+    background-color: #8ccbff;
+}
+.member {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    margin: 0px 40px;
+    border-radius: 15px;
+    transition: 0.3s;
+    width: 250px;
+    height: 300px;
+    box-shadow: 0px 0px 10px 10px rgba(0, 0, 0, 0.2);
+    background-color: white;
+    font-family: Calibri, 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+}
+.member:hover {
+    transition: 0.3s;
+    box-shadow: 0px 0px 6px 6px rgba(0, 0, 0, 0.4);
+    scale: 99%;
+}
+.member h3{
+    text-align: center;
+    padding: 5px 20px;
+    margin: 0;
+    font-size: xx-large;
+}
+#Umayr{
+    /* background-color: rgb(255, 197, 81); */
+}
+#new-member{
+    background-color: rgb(255, 187, 0);
+    color: #1c1c1c;
+}
+.member h4{
+    font-size: 17px;
+    padding: 0;
+    margin: 0;
+}
+.member p {
+    max-width: 240px;
+    margin: 0;
+    padding: 10px;
+    font-size: 17px;
 }
