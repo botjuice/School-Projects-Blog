@@ -1,25 +1,32 @@
 .hero {
     display: flex;
     flex-direction: row;
-    /* flex-wrap: wrap; */
-    justify-content: space-around;
+    justify-content: center;
     align-items: center;
     background-color: #ffda75;
-    min-height: max-content;
-    gap: 9%;
-    padding: 100px 60px;
+    min-height: min-content;
+    gap: 5%;
+    padding: 100px 70px;
+    /* width: 100%; */
 }
 .lefthero {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* padding: 40px; */
     text-align: center;
     font-size: 80px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    max-width: 35%;
 }
 .righthero {
+    /* padding: 40px; */
     font-family:  Calibri, 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
     font-weight: normal;
     font-size: 25px;
-    min-width: 60%;
-    max-width: 50%;
+    margin: 0px 40px 0px 20px;
+    max-width: 35%;
 }
 h3{
     font-style: normal;
@@ -57,13 +64,13 @@ h3{
     align-items: center;
     padding: 20px;
     margin: 0px 50px 0px 60px;
-    box-shadow: 0px 0px 10px 10px rgba(0, 0, 0, 0.6);
+    box-shadow: 0px 0px 15px 5px rgba(0, 0, 0, 0.6);
     border-radius: 15px;
     transition: 0.3s;
 }
 .presentclubs:hover {
     transition: 0.3s;
-    box-shadow: 0px 0px 6px 6px rgba(0, 0, 0, 0.7);
+    box-shadow: 0px 0px 10px 3px rgba(0, 0, 0, 0.7);
     scale: 99%;
 }
 .presentclubs > img {
@@ -99,9 +106,16 @@ h3{
 
     .hero{
         flex-direction: column;
-        padding: 30px;
+        padding: 20px 5%;
         justify-content: center;
         row-gap: 0;
+    }
+    .lefthero {
+        font-size: 70px;
+        max-width: 100%;
+    }
+    .righthero {
+        max-width: 100%;
     }
     .featured{
         padding: 0px 0px 50px 0px;

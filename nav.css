@@ -76,7 +76,7 @@ body {
   }
   .navbar .links {
     display: none;
-    flex-direction: column;
+    flex-direction: column-reverse;
     min-width: 100%;
   }
   .navbar {
