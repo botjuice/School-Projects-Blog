@@ -48,8 +48,8 @@
     margin: 0px 40px;
     border-radius: 15px;
     transition: 0.3s;
-    max-width: 250px;
-    max-height: 300px;
+    max-width: min-content;
+    max-height: min-content;
     box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.2);
     background-color: white;
     font-family: Calibri, 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
@@ -79,6 +79,7 @@
     margin: 0;
 }
 .member p {
+    max-height: min-content;
     max-width: 240px;
     margin: 0;
     padding: 10px;
