@@ -39,12 +39,16 @@
     margin: 0px;
     color: white;
     transition: 0.2s;
+    min-width: 100%;
 }
 .directory-title:hover {
-    min-width: 100%;
     transition: 0.2s;
     color: rgb(255, 241, 179);
     background-color: #f79c05;
+}
+.directory-title:active {
+    transition: 0.2s;
+    background-color: #7acce1;
 }
 .reader {
     background-color: #fefefe;
@@ -56,10 +60,11 @@
     justify-content: flex-start;
     align-items: flex-start;
     /* min-width: 300px; */
+    gap: 20px
 }
 .reader h1{
     font-family: Calibri, 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
-    margin: 0;
+    margin: 20px 0px;
     font-size: 40px;
     align-self: center;
     max-height: min-content;
