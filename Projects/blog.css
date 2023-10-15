@@ -1,3 +1,9 @@
+body {
+    background-image: url('../Images/Abstract/Blog-bg.svg');
+    background-position: bottom;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 .blog {
     display: flex;
     flex-direction: row;
