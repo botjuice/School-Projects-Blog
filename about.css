@@ -85,3 +85,12 @@
     padding: 10px;
     font-size: 17px;
 }
+
+@media(max-width: 450px) {
+    #about-section {
+        margin: 20px;
+    }
+    .team-members {
+        margin: 20px;
+    }
+}
