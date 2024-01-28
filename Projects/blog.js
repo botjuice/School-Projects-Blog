@@ -17,51 +17,17 @@ let selectedStory = 0;
 
 stories = [
     {
-        title: "Sample Story 1",
-        author: "ChatGPT",
-        paragraphs: ["The day started out normal enough. I woke up, brushed my teeth, and got ready for work. I work as a software engineer at Microsoft, and I love my job. I usually take the bus to the office, but today I decided to walk. It was a nice day, and I thought some fresh air would do me good.",
-            "I was wrong.",
-            "As I was walking, I noticed a strange noise coming from the sky. It sounded like a jet engine, but louder and more erratic. I looked up and saw a huge metal object flying towards me. It was shaped like a giant donut, with a hole in the middle. It had red and blue lights flashing on its surface, and it was spinning wildly.",
-            "I panicked and ran for cover, but it was too late. The object crashed into the ground, creating a massive explosion. I was thrown back by the blast, and hit my head on a lamppost. Everything went black.",
-            "When I woke up, I was in a hospital bed. A nurse was standing over me, checking my vitals. She smiled when she saw me open my eyes.",
-            `"Hello, Mr. Smith," she said. "You're lucky to be alive. You were in a coma for two weeks."`,
-            `"Two weeks?" I repeated, groggily. "What happened?"`,
-            `She explained that the object that hit me was an alien spacecraft. It had been detected by NASA a few days before, but they had no idea what it was or where it came from. They tried to communicate with it, but got no response. They assumed it was hostile, and sent fighter jets to intercept it.`,
-            `But they were too late. The spacecraft had entered the atmosphere and crashed into the city. It caused a lot of damage and casualties, but luckily, no one died.`,
-            `Except for the aliens.`,
-            `The nurse said that the authorities had recovered four bodies from the wreckage. They were humanoid, but with green skin, pointy ears, and antennae. They had no clothes or weapons, only some strange devices on their wrists.`,
-            `"They were probably explorers," she said. "Maybe they came to study our planet."`,
-            `"Or maybe they came to invade us," I said.`,
-            `She shook her head. "No, I don't think so. They seemed peaceful. And besides, why would they crash their ship on purpose?"`,
-            `"Maybe it was an accident," I said.`,
-            `"Maybe," she said.`,
-            `She told me that the government had taken the ship and the bodies to a secret facility for further analysis. They had also imposed a media blackout on the incident, to prevent panic and chaos.`,
-            `"They don't want people to know about this," she said.`,
-            `"Then how do you know?" I asked.`,
-            `She leaned closer to me and whispered in my ear.`,
-            `"Because I'm one of them."`,
-            `She smiled and revealed her pointy ears and antennae.`,
-            `I screamed.`
-        ]
+        title: "Girl in the park",
+        author: "- Yoosuf Hannan",
+        paragraphs: ["In a park. I see a girl, not yet four years old, crawling with determination on the grass towards a swing, when she reaches it she sits down on it. Then she stretches her arms out and starts to cry. A young woman hurriedly rushes over to her and comforts her with a warming hug, then she pushes the swing back and forth. It was the girls' mother. Not far from the four-year-old and her mother, three young siblings are running. The youngest of them, a boy, falls, and his two sisters abruptly stop and take care of his grazed knee. I look down to my right, where the grass, in my eyes, seems infinitely longer than it should be. The grass near me should be bent low by a person sitting on it, a person from my family. But I have no relatives; I have no one to care for me."]
     },
     {
-        title: "Sample Story 2",
-        author: "ChatGPT",
-        paragraphs: [`I was bored at home, so I decided to play a game on my computer. I opened the Epic Games Launcher and browsed through the available games. I saw one that caught my eye: **The Last of Us Part II**. It was a post-apocalyptic survival horror game, and it looked amazing. I clicked on it and downloaded it.`,
-            `The game started with a cinematic intro, showing the main characters, Ellie and Joel, living in a community of survivors in Wyoming. They had escaped from a deadly fungal infection that turned people into zombies, called the Infected. They had also faced many dangers from other human factions, such as the Fireflies, a rebel group that wanted to use Ellie's immunity to the infection to create a cure.`,
-            `The intro was interrupted by a pop-up window. It said:`,
-            `**Welcome to The Last of Us Part II!**`,
-            `**This game is an immersive and realistic experience that adapts to your choices and actions.**`,
-            `**The game will use your webcam and microphone to capture your facial expressions and voice, and use them to create your own character in the game.**`,
-            `**The game will also access your personal data, such as your name, age, location, contacts, social media accounts, browsing history, and more, to customize the game world and the story according to your preferences and personality.**`,
-            `**The game will also monitor your heart rate, blood pressure, brain activity, and other biometric data, to adjust the game difficulty and intensity based on your emotional state and physical condition.**`,
-            `**The game will also connect you with other players around the world who are playing the game at the same time as you, and allow you to interact with them in real time.**`,
-            `**The game will also record your gameplay and upload it to the cloud, where it will be analyzed by our advanced artificial intelligence system, to improve the game quality and performance.**`,
-            `**By clicking OK, you agree to all of the above terms and conditions.**`,
-            `**Are you ready to play The Last of Us Part II?**`,
-            `I was stunned by the pop-up window. It sounded too good to be true. How could a game do all of that? Was it safe? Was it legal? Was it ethical?`,
-            `I hesitated for a moment, but then I thought: what the hell, it's just a game.`,
-            `I clicked OK.`
+        title: "First and Last Time Nearly Swearing",
+        author: " - Yoosuf Hannan",
+        paragraphs: [`Fuu-lippin' hell" said Kiranam quite nervously now. His dad was right next to him, and the only place on this earth that he was not allowed to swear was in front of him. Kiranams bike had a puncture and together with his dad they were dragging it home, and  were just one more corner away from reaching.`,
+        `They were in a rural area, out in the country. The clouds above them were not light grey, they were not dark grey, they were black as black can be. Just layers and layers of clouds piled up ontop of each other forming the most thick and black clouds he had ever seen. It was not about to rain, it was not about to pour, it was about to storm. There were turbo speed winds blowing right against them, the back of his shirt was blowing so far backwards that it almost felt like he was wearing a cape instead. The trees around them were straining at the weirdest angles, looking like they were going to snap at any given moment. To walk forward he needed to do the equivalent of running, and to stand still he needed to do the equivalent of walking forward. If he actually stood still he would get sent flying backwards. To make matters worse, they were on a sidewalk going up a very steep hill. But, home was only one more corner away!`,
+        `Kiranam looked over his bike to his dad that was grasping the handlebar on the other side, wondering if he'd heard him nearly swear over the howling winds. His dad was a fairly old man, he had a very long white beard (that was currently being voilently blown back into his neck) and he was also very hard of hearing. Which due to some faulty logic, he compensated for by speaking ferociously loud. It look liked his mouth was moving, almost as though he was speaking - in fact, no, he was more than just speaking, he was shouting! (so that's extra ferociously loud) and Kiranam still could not hear him at all over the loud winds. He saw his dad shout even more aggressively, which he could only guess was an attempt to be even louder, then his dad turned to him and looked at him dead on, his eyes widening - very very wide, and he seemed to shout so loud that you could see his neck veins popping.`,
+        `His dad reached out to him, grabbing his arm, and he just felt the beggining of a violent tug before he got blasted away by a rogue out of control motorbike shooting round the corner and down the hill with the rider missing. The crash sent Kiranam flying up into the air,  and the powerful winds did the honours of blasting him backwards down the steep hill, he bounced and crashed along the cement walkway and the tarmac road picking up speed, momentum, and height with each one. Those watching could probably hear the crunching of bones, and see the ripping of his clothes. Till finally he had one last crash into a short stone wall blowing a human sized hole straight through it, and his body came to rest laying amongst the pile of scattered bricks. The last words he ever uttered was "Fuu-lippin' hell".`
         ]
     }
 ];
